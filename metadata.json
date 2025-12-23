@@ -1,0 +1,8 @@
+
+{
+  "name": "B2 Company - Commercial Diagnosis",
+  "description": "A sophisticated commercial diagnosis tool to identify revenue gaps, operational bottlenecks, and provide a strategic action plan for business growth.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
